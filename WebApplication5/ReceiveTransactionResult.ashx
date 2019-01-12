@@ -1,0 +1,1 @@
+<%@ WebHandler Language="C#" Class="ReceiveTransactionResult" CodeBehind="~/App_Code/ReceiveTransactionResult.ashx.cs" %>

@@ -1,0 +1,2 @@
+C:\Users\Luís Felipe Pinto\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojAssemblyReference.cache
+C:\Users\Luís Felipe Pinto\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CoreCompileInputs.cache
